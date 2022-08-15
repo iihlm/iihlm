@@ -19,7 +19,7 @@
   <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" width="50px" /> </a>
   <a href="https://www.linkedin.com/in/ahlam-majed-122210215/" title="LinkedIn"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg"/ width="50px"> </a>  
 </p>
-<h3> Languages and Tools <img src='https://github.com/iihlm/iihlm/blob/main/logo%20for%20skill.gif' width="40px"> </h3>
+<h3> Languages and Tools <img src='https://github.com/iihlm/iihlm/blob/main/coding.gif' width="40px"> </h3>
 <br>
 
 <p align="center">
