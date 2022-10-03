@@ -6,7 +6,7 @@
  </div>
  
 <p>
-    <img align="right" src="https://github.com/iihlm/iihlm/blob/main/face-with-frame.gif" width = "300px"   style="margin-left:30px"/>
+   
     
 - 🎓 &nbsp; I am a `Information Systems.`
 - ✨ I’m currently `learning and practicing courses` and `algorithms`
